@@ -1,0 +1,18 @@
+credentials:
+  usernames:
+    ayuliao:
+      email: ayuliao@gmail.com
+      name: 二两
+      password: '$2b$12$fswaIxVpYXhAObK2Xtc0j.awW4wpKeyhu5hkIh44KL69dvSdJ/ROa'  # ayuliao123
+    jsmith:
+      email: jsmith@gmail.com
+      name: John Smith
+      password: '$2b$12$Q.Ues15i9XesMNFHqAc76uDjX71YgMPUDtVYPU2mQ4CPZny.S64O6' # To be replaced with hashed password
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: '$2b$12$5OOf0lPOur1Ozd4gURefdeTQGc45VBEkZOD0hDElhrSLPoGEL9gi.' # To be replaced with hashed password
+cookie:
+  expiry_days: 7
+  key: 17va32tgb8alsdbvnp1ioshvbavjpgh
+  name: playfaceonline
